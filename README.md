@@ -18,7 +18,7 @@ Before installing Ollama Chat, you need:
    ```bash
    # Visit https://ollama.ai and install Ollama
    # Then pull your preferred model:
-   ollama pull llama2
+   ollama pull llama3.2
    ```
 
 2. **Start Ollama Server**
