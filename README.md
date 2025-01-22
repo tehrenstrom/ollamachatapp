@@ -2,8 +2,6 @@
 
 A sleek desktop chat application for interacting with Ollama models, built with Electron and React.
 
-![Ollama Chat Screenshot](docs/screenshot.png)
-
 ## Features
 - 🌓 Dark/Light mode support
 - 💻 Native desktop app experience
